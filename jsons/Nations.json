@@ -19,8 +19,8 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
 
-		"outerColor": [ 231, 213, 0],
-		"innerColor": [98,10,210],
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Wonder Obsession",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
