@@ -32,7 +32,7 @@
         "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
     },
 	{
-		"name": "Caldas",
+		"name": "Don Caldas",
 		"leaderName": "Caldas",
 		"adjective": ["Austrian"],
 		"startBias": ["Hill"],
@@ -49,12 +49,12 @@
 		"neutralHello": "Hello!",
 		"hateHello": "Oh, it's ye!",
 		"tradeRequest": "I see you admire my new damask. Nobody should say that I am an unjust woman. Let's reach an agreement!",
-		"outerColor": [90,0,10],
-		"innerColor": [37,56,123],
+		"outerColor": [51,25,0],
+		"innerColor": [255,255,102],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Confederacy Brides",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
-		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
+		"uniqueName": "Confederacy Bribes",
+		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
+		"cities": ["Caldas", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
 			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"
