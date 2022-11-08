@@ -8,4 +8,18 @@
 			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 5
 	},
+	{
+		"name": "Janissary",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Caldas",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"promotions": ["[Janissary] ability"],
+		"attackSound": "shot"
+	},
 ]
