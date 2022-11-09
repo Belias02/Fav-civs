@@ -32,9 +32,9 @@
         "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
     },
 	{
-		"name": "Don Caldas",
-		"leaderName": "Caldas",
-		"adjective": ["Austrian"],
+		"name": "Caldas",
+		"leaderName": "Don Caldo",
+		"adjective": ["Caldeño"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
 
@@ -52,7 +52,7 @@
 		"outerColor": [51,25,0],
 		"innerColor": [255,255,102],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Confederacy Bribes",
+		"uniqueName": "Soup Bribes",
 		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
 		"cities": ["Caldas", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
