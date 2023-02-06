@@ -1,6 +1,6 @@
 [
 {
-		"name": "Khan",
+		"name": "Belias Khan",
 		"unitType": "Civilian",
 		"uniqueTo": "Atlas",
 		"replaces": "Great General",
@@ -9,7 +9,7 @@
 		"movement": 5
 	},
 	{
-		"name": "Janissary",
+		"name": "Archi Janissary",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Caldas",
