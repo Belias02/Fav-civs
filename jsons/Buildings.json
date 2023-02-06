@@ -11,7 +11,7 @@
 		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
 	},
 	{
-		"name": "Pyramid",
+		"name": "Archi Pyramid",
 		"replaces": "Shrine",
 		"uniqueTo": "Caldas",
 		"faith": 2,
